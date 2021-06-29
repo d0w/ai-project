@@ -1,1 +1,1 @@
-# ai-project
+# AI Research
